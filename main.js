@@ -50,7 +50,7 @@ try {
 
   fs.writeFileSync(packagePath, parseString(packageJson));
 
-  console.log({ packageName, packagePath });
+  console.log("Package.json update successful");
 } catch (e) {
   console.log(e.message);
 }
