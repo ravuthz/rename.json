@@ -1,6 +1,6 @@
 # Rename.json
 
-Use to rename package.json also update author and version fields.
+Use to update package.json fields name, author and version.
 
 
 ## Usage:
