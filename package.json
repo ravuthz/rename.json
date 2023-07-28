@@ -7,6 +7,9 @@
   "scripts": {
     "start": "node ."
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "keywords": ["rename.js", "package.json", "rename.json"],
   "author": "Ravuthz <ravuthz@gmail.com>",
   "description": "Rename package.json, author and version fields",
