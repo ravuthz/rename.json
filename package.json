@@ -7,9 +7,6 @@
   "scripts": {
     "start": "node ."
   },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org"
-  },
   "keywords": [
     "rename.js",
     "package.json",
